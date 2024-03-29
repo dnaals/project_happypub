@@ -21,4 +21,6 @@
   <li>장바구니 (cart.html / cart.js)</li>
 </ul>
 
-**배포링크 : <https://dnaals.github.io/project_happypub/>**
+
+**배포링크 : <a href="https://dnaals.github.io/project_happypub/" target="_blank">새 탭에서 열기</a>**
+
