@@ -8,7 +8,7 @@
   
   **기술 스택**
   <ul>
-    <li>HTML5 , SCSS , Java Script</li>
+    <li>HTML5 , SCSS , Java Script 리드미 실험</li>
   </ul>
   
 
